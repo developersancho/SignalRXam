@@ -1,0 +1,13 @@
+C:\XamStudioProjects\SignalRXam\SignalRXam\SignalRXam\bin\Debug\netstandard2.0\SignalRXam.deps.json
+C:\XamStudioProjects\SignalRXam\SignalRXam\SignalRXam\bin\Debug\netstandard2.0\SignalRXam.dll
+C:\XamStudioProjects\SignalRXam\SignalRXam\SignalRXam\obj\Debug\netstandard2.0\SignalRXam.csprojAssemblyReference.cache
+C:\XamStudioProjects\SignalRXam\SignalRXam\SignalRXam\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\XamStudioProjects\SignalRXam\SignalRXam\SignalRXam\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\XamStudioProjects\SignalRXam\SignalRXam\SignalRXam\obj\Debug\netstandard2.0\SignalRXam.csproj.CoreCompileInputs.cache
+C:\XamStudioProjects\SignalRXam\SignalRXam\SignalRXam\obj\Debug\netstandard2.0\SignalRXam.AssemblyInfoInputs.cache
+C:\XamStudioProjects\SignalRXam\SignalRXam\SignalRXam\obj\Debug\netstandard2.0\SignalRXam.AssemblyInfo.cs
+C:\XamStudioProjects\SignalRXam\SignalRXam\SignalRXam\bin\Debug\netstandard2.0\SignalRXam.pdb
+C:\XamStudioProjects\SignalRXam\SignalRXam\SignalRXam\obj\Debug\netstandard2.0\ChatPage.xaml.g.cs
+C:\XamStudioProjects\SignalRXam\SignalRXam\SignalRXam\obj\Debug\netstandard2.0\XamlC.stamp
+C:\XamStudioProjects\SignalRXam\SignalRXam\SignalRXam\obj\Debug\netstandard2.0\SignalRXam.dll
+C:\XamStudioProjects\SignalRXam\SignalRXam\SignalRXam\obj\Debug\netstandard2.0\SignalRXam.pdb
